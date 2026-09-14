@@ -1,12 +1,15 @@
 <div align="center">
-	<img src="https://avatars.githubusercontent.com/u/282623638?s=100" width="100" alt="CiSkeleton Logo" />
 	<h1>CiSkeleton</h1>
 	<p><em>A lightweight, modular application foundation for CodeIgniter 3.</em></p>
 	<a href="https://github.com/ciskeleton" target="_blank">💻 GitHub</a> •
   <a href="https://github.com/ciskeleton/packages" target="_blank">🧩 Packages</a> •
 	<a href="https://github.com/ciskeleton/projects" target="_blank">🧱 Projects</a> •
   <a href="https://github.com/orgs/ciskeleton/repositories" target="_blank">📦 Repositories</a>
+  <br><br>
+  <img src="https://raw.githubusercontent.com/ianhubnet/.github/refs/heads/main/main/assets/banner.webp" width="100%" alt="CiSkeleton Banner" />
 </div>
+
+---
 
 ### 👋 Welcome to CiSkeleton
 
