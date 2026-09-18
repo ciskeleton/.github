@@ -6,7 +6,7 @@
 	<a href="https://github.com/ciskeleton/projects" target="_blank">🧱 Projects</a> •
   <a href="https://github.com/orgs/ciskeleton/repositories" target="_blank">📦 Repositories</a>
   <br><br>
-  <img src="https://raw.githubusercontent.com/ciskeleton/.github/refs/heads/main/assets/images/banner.webp" width="100%" alt="CiSkeleton Banner" />
+  <img src="https://raw.githubusercontent.com/ciskeleton/.github/refs/heads/main/assets/images/banner.png" width="100%" alt="CiSkeleton Banner" />
 </div>
 
 ---
