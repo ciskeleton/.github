@@ -41,6 +41,24 @@ CSK is a substantially rewritten and independently evolved framework derived fro
 * Familiar PHP and CodeIgniter-style development.
 * No dependency on a large third-party package ecosystem.
 
+### 🚀 Try the CiSkeleton Demo
+
+Want to see CiSkeleton in action?
+
+Explore the live CSK demonstration and experience the administration interface with different user access levels. Each account provides a different view of the application according to its assigned permissions.
+
+**🔗 [Open the CiSkeleton Demo](https://demos.ianhub.net/skeleton)**
+
+| Access Level      | Username  | Password     |
+| ----------------- | --------- | ------------ |
+| **Administrator** | `admin`   | `admin123`   |
+| **Staff**         | `staff`   | `staff123`   |
+| **Regular User**  | `regular` | `regular123` |
+
+The demo is provided for evaluation purposes, so feel free to explore the interface, navigate through the available features, and compare the different access levels.
+
+> **Note:** The demo environment is shared and may be reset or updated periodically. Please do not enter personal or sensitive information.
+
 ### 🧩 The CiSkeleton Ecosystem
 
 The CiSkeleton ecosystem is organized into several types of repositories.
@@ -316,6 +334,12 @@ For information about the creator and the wider Ianhub ecosystem, visit [**Ianhu
 	<summary><b>Admin — Languages (Install)</b></summary>
 	<br>
 	<img src="../assets/screenshots/admin-languages-install.jpg" width="100%" alt="Admin — Languages (Install)">
+</details>
+
+<details>
+	<summary><b>Installer</b></summary>
+	<br>
+	<img src="../assets/screenshots/installer.jpg" width="100%" alt="Installer">
 </details>
 
 ---
