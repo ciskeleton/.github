@@ -1,0 +1,90 @@
+name: Bug report
+description: Report unexpected behavior or a reproducible problem.
+title: ""
+labels: []
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Before submitting, search existing issues for a similar report.
+
+        For security vulnerabilities, do not use this form. Follow the repository's security reporting policy instead.
+
+  - type: textarea
+    id: summary
+    attributes:
+      label: Problem
+      description: Clearly describe the unexpected behavior.
+      placeholder: What happened, and why do you believe it is a problem?
+    validations:
+      required: true
+
+  - type: input
+    id: version
+    attributes:
+      label: Version or revision
+      description: Identify the affected release, version, or Git revision, if known.
+      placeholder: e.g. 1.2.0, development branch, or commit hash
+    validations:
+      required: false
+
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Steps to reproduce
+      description: Provide the steps or conditions needed to reproduce the problem.
+      placeholder: |
+        1. Start with...
+        2. Configure or perform...
+        3. Observe...
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+      description: Describe what should happen instead.
+    validations:
+      required: true
+
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behavior
+      description: Describe what actually happens.
+    validations:
+      required: true
+
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment and dependencies
+      description: Include relevant platform, runtime, application, framework, dependency, or configuration details.
+      placeholder: |
+        CiSkeleton version:
+        Component or package version:
+        Runtime or platform:
+        Relevant dependencies:
+        Other relevant details:
+    validations:
+      required: false
+
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Logs and supporting evidence
+      description: Include relevant error messages, logs, screenshots, or other evidence. Remove credentials, tokens, and personal information.
+      render: text
+    validations:
+      required: false
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional context
+      description: Add anything else that may help reproduce, understand, or investigate the problem.
+    validations:
+      required: false
