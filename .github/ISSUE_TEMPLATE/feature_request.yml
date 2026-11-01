@@ -1,0 +1,64 @@
+name: Feature request
+description: Suggest an improvement or new functionality.
+title: ""
+labels: []
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Before submitting, search existing issues and discussions for a similar proposal.
+
+        Describe the problem and desired outcome first. The implementation can be discussed afterward.
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem or motivation
+      description: What limitation, unmet need, or opportunity prompted this request?
+      placeholder: Explain the problem you want to solve.
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed solution
+      description: Describe the desired behavior or improvement.
+      placeholder: Explain what you would like to happen.
+    validations:
+      required: true
+
+  - type: textarea
+    id: use_case
+    attributes:
+      label: Use case
+      description: Explain who would benefit and how the proposed change would be used.
+      placeholder: Describe a practical scenario in which this would be useful.
+    validations:
+      required: false
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives and workarounds
+      description: Describe any existing alternatives, workarounds, or approaches you have considered.
+    validations:
+      required: false
+
+  - type: textarea
+    id: impact
+    attributes:
+      label: Compatibility and impact
+      description: Mention any known implications for existing behavior, other components, configuration, or users.
+    validations:
+      required: false
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional context
+      description: Include examples, references, screenshots, or other information that helps explain the proposal.
+    validations:
+      required: false
