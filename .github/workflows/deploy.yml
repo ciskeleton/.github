@@ -104,8 +104,8 @@ jobs:
       - name: Configure GitHub auth and identity
         shell: bash
         run: |
-          git config --global user.name "ianhub-agent[bot]"
-          git config --global user.email "ianhub-agent[bot]@users.noreply.github.com"
+          git config --global user.name "csk-agent[bot]"
+          git config --global user.email "csk-agent[bot]@users.noreply.github.com"
 
       - name: Validate app structure
         shell: bash
