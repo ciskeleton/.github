@@ -17,11 +17,11 @@
 
 It provides a structured foundation for building modern PHP web applications without imposing a large or complicated ecosystem. CSK focuses on **clarity, modularity, performance, and developer control**.
 
-CiSkeleton is **created, developed, and maintained by [Ianhub](https://github.com/ianhubnet)**, the independent software brand of [Kader Bouyakoub](https://github.com/bkader).
+CiSkeleton is **created, developed, and maintained by [Kader Bouyakoub](https://github.com/bkader)**, trading as **[Ianhub](https://github.com/ianhubnet)**.
 
 > **Ianhub** is responsible for the continued development, maintenance, and evolution of CiSkeleton.
 
-For more information about Ianhub and its other projects, visit [github.com/ianhubnet](https://github.com/ianhubnet).
+For more information about Ianhub and its other projects, visit [www.ianhub.net](https://www.ianhub.net/).
 
 ### 🚀 What is CiSkeleton?
 
@@ -176,170 +176,170 @@ Start with the [**CiSkeleton organization**](https://github.com/ciskeleton) to e
 
 Follow the [**CiSkeleton organization**](https://github.com/ciskeleton) for updates, releases, and new projects.
 
-For information about the creator and the wider Ianhub ecosystem, visit [**Ianhub on GitHub**](https://github.com/ianhubnet).
+For information about the creator and the wider Ianhub ecosystem, visit **[Ianhub on GitHub](https://github.com/ianhubnet)**.
 
 ### 📸 Screenshots
 
 <details open>
 	<summary><b>Admin — Login</b></summary>
 	<br>
-	<img src="../assets/screenshots/admin-login.jpg" width="100%" alt="Admin — Login">
+	<img src="https://raw.githubusercontent.com/ciskeleton/.github/refs/heads/main/assets/screenshots/admin-login.jpg" width="100%" alt="Admin — Login">
 </details>
 
 <details>
 	<summary><b>Admin — Index</b></summary>
 	<br>
-	<img src="../assets/screenshots/admin-index.jpg" width="100%" alt="Admin — Index">
+	<img src="https://raw.githubusercontent.com/ciskeleton/.github/refs/heads/main/assets/screenshots/admin-index.jpg" width="100%" alt="Admin — Index">
 </details>
 
 <details>
 	<summary><b>Admin — Emails (Index)</b></summary>
 	<br>
-	<img src="../assets/screenshots/admin-emails-index.jpg" width="100%" alt="Admin — Emails (Index)">
+	<img src="https://raw.githubusercontent.com/ciskeleton/.github/refs/heads/main/assets/screenshots/admin-emails-index.jpg" width="100%" alt="Admin — Emails (Index)">
 </details>
 
 <details>
 	<summary><b>Admin — Emails (Editor)</b></summary>
 	<br>
-	<img src="../assets/screenshots/admin-emails-editor.jpg" width="100%" alt="Admin — Emails (Editor)">
+	<img src="https://raw.githubusercontent.com/ciskeleton/.github/refs/heads/main/assets/screenshots/admin-emails-editor.jpg" width="100%" alt="Admin — Emails (Editor)">
 </details>
 
 <details>
 	<summary><b>Admin — Backups</b></summary>
 	<br>
-	<img src="../assets/screenshots/admin-backups.jpg" width="100%" alt="Admin — Backups">
+	<img src="https://raw.githubusercontent.com/ciskeleton/.github/refs/heads/main/assets/screenshots/admin-backups.jpg" width="100%" alt="Admin — Backups">
 </details>
 
 <details>
 	<summary><b>Admin — Logs (Index)</b></summary>
 	<br>
-	<img src="../assets/screenshots/admin-logs-index.jpg" width="100%" alt="Admin — Logs">
+	<img src="https://raw.githubusercontent.com/ciskeleton/.github/refs/heads/main/assets/screenshots/admin-logs-index.jpg" width="100%" alt="Admin — Logs">
 </details>
 
 <details>
 	<summary><b>Admin — Logs (View)</b></summary>
 	<br>
-	<img src="../assets/screenshots/admin-logs-view.jpg" width="100%" alt="Admin — Logs">
+	<img src="https://raw.githubusercontent.com/ciskeleton/.github/refs/heads/main/assets/screenshots/admin-logs-view.jpg" width="100%" alt="Admin — Logs">
 </details>
 
 <details>
 	<summary><b>Admin — Firewall</b></summary>
 	<br>
-	<img src="../assets/screenshots/admin-firewall.jpg" width="100%" alt="Admin — Firewall">
+	<img src="https://raw.githubusercontent.com/ciskeleton/.github/refs/heads/main/assets/screenshots/admin-firewall.jpg" width="100%" alt="Admin — Firewall">
 </details>
 
 <details>
 	<summary><b>Admin — Settings</b></summary>
 	<br>
-	<img src="../assets/screenshots/admin-settings.jpg" width="100%" alt="Admin — Settings">
+	<img src="https://raw.githubusercontent.com/ciskeleton/.github/refs/heads/main/assets/screenshots/admin-settings.jpg" width="100%" alt="Admin — Settings">
 </details>
 
 <details>
 	<summary><b>Admin — Updates</b></summary>
 	<br>
-	<img src="../assets/screenshots/admin-updates.jpg" width="100%" alt="Admin — Updates">
+	<img src="https://raw.githubusercontent.com/ciskeleton/.github/refs/heads/main/assets/screenshots/admin-updates.jpg" width="100%" alt="Admin — Updates">
 </details>
 
 <details>
 	<summary><b>Admin — Users (Index)</b></summary>
 	<br>
-	<img src="../assets/screenshots/admin-users-index.jpg" width="100%" alt="Admin — Users (Index)">
+	<img src="https://raw.githubusercontent.com/ciskeleton/.github/refs/heads/main/assets/screenshots/admin-users-index.jpg" width="100%" alt="Admin — Users (Index)">
 </details>
 
 <details>
 	<summary><b>Admin — Users (Add)</b></summary>
 	<br>
-	<img src="../assets/screenshots/admin-users-add.jpg" width="100%" alt="Admin — Users (Add)">
+	<img src="https://raw.githubusercontent.com/ciskeleton/.github/refs/heads/main/assets/screenshots/admin-users-add.jpg" width="100%" alt="Admin — Users (Add)">
 </details>
 
 <details>
 	<summary><b>Admin — Users (Edit)</b></summary>
 	<br>
-	<img src="../assets/screenshots/admin-users-edit.jpg" width="100%" alt="Admin — Users (Edit)">
+	<img src="https://raw.githubusercontent.com/ciskeleton/.github/refs/heads/main/assets/screenshots/admin-users-edit.jpg" width="100%" alt="Admin — Users (Edit)">
 </details>
 
 <details>
 	<summary><b>Admin — Activity Log</b></summary>
 	<br>
-	<img src="../assets/screenshots/admin-reports.jpg" width="100%" alt="Admin — Activity Log">
+	<img src="https://raw.githubusercontent.com/ciskeleton/.github/refs/heads/main/assets/screenshots/admin-reports.jpg" width="100%" alt="Admin — Activity Log">
 </details>
 
 <details>
 	<summary><b>Admin — Media Manager</b></summary>
 	<br>
-	<img src="../assets/screenshots/admin-media.jpg" width="100%" alt="Admin — Media Manager">
+	<img src="https://raw.githubusercontent.com/ciskeleton/.github/refs/heads/main/assets/screenshots/admin-media.jpg" width="100%" alt="Admin — Media Manager">
 </details>
 
 <details>
 	<summary><b>Admin — Media Details</b></summary>
 	<br>
-	<img src="../assets/screenshots/admin-media-details.jpg" width="100%" alt="Admin — Media Details">
+	<img src="https://raw.githubusercontent.com/ciskeleton/.github/refs/heads/main/assets/screenshots/admin-media-details.jpg" width="100%" alt="Admin — Media Details">
 </details>
 
 <details>
 	<summary><b>Admin — Modules (Index)</b></summary>
 	<br>
-	<img src="../assets/screenshots/admin-modules-index.jpg" width="100%" alt="Admin — Modules (Index)">
+	<img src="https://raw.githubusercontent.com/ciskeleton/.github/refs/heads/main/assets/screenshots/admin-modules-index.jpg" width="100%" alt="Admin — Modules (Index)">
 </details>
 
 <details>
 	<summary><b>Admin — Modules (Install)</b></summary>
 	<br>
-	<img src="../assets/screenshots/admin-modules-install.jpg" width="100%" alt="Admin — Modules (Install)">
+	<img src="https://raw.githubusercontent.com/ciskeleton/.github/refs/heads/main/assets/screenshots/admin-modules-install.jpg" width="100%" alt="Admin — Modules (Install)">
 </details>
 
 <details>
 	<summary><b>Admin — Plugins (Index)</b></summary>
 	<br>
-	<img src="../assets/screenshots/admin-plugins-index.jpg" width="100%" alt="Admin — Plugins (Index)">
+	<img src="https://raw.githubusercontent.com/ciskeleton/.github/refs/heads/main/assets/screenshots/admin-plugins-index.jpg" width="100%" alt="Admin — Plugins (Index)">
 </details>
 
 <details>
 	<summary><b>Admin — Plugins (Install)</b></summary>
 	<br>
-	<img src="../assets/screenshots/admin-plugins-install.jpg" width="100%" alt="Admin — Plugins (Install)">
+	<img src="https://raw.githubusercontent.com/ciskeleton/.github/refs/heads/main/assets/screenshots/admin-plugins-install.jpg" width="100%" alt="Admin — Plugins (Install)">
 </details>
 
 <details>
 	<summary><b>Admin — Themes (Index)</b></summary>
 	<br>
-	<img src="../assets/screenshots/admin-themes-index.jpg" width="100%" alt="Admin — Themes (Index)">
+	<img src="https://raw.githubusercontent.com/ciskeleton/.github/refs/heads/main/assets/screenshots/admin-themes-index.jpg" width="100%" alt="Admin — Themes (Index)">
 </details>
 
 <details>
 	<summary><b>Admin — Themes (Details)</b></summary>
 	<br>
-	<img src="../assets/screenshots/admin-themes-details.jpg" width="100%" alt="Admin — Themes (Details)">
+	<img src="https://raw.githubusercontent.com/ciskeleton/.github/refs/heads/main/assets/screenshots/admin-themes-details.jpg" width="100%" alt="Admin — Themes (Details)">
 </details>
 
 <details>
 	<summary><b>Admin — Themes (Menus)</b></summary>
 	<br>
-	<img src="../assets/screenshots/admin-themes-menus.jpg" width="100%" alt="Admin — Themes (Menus)">
+	<img src="https://raw.githubusercontent.com/ciskeleton/.github/refs/heads/main/assets/screenshots/admin-themes-menus.jpg" width="100%" alt="Admin — Themes (Menus)">
 </details>
 
 <details>
 	<summary><b>Admin — Themes (Install)</b></summary>
 	<br>
-	<img src="../assets/screenshots/admin-themes-install.jpg" width="100%" alt="Admin — Themes (Install)">
+	<img src="https://raw.githubusercontent.com/ciskeleton/.github/refs/heads/main/assets/screenshots/admin-themes-install.jpg" width="100%" alt="Admin — Themes (Install)">
 </details>
 
 <details>
 	<summary><b>Admin — Languages (Index)</b></summary>
 	<br>
-	<img src="../assets/screenshots/admin-plugins-index.jpg" width="100%" alt="Admin — Languages (Index)">
+	<img src="https://raw.githubusercontent.com/ciskeleton/.github/refs/heads/main/assets/screenshots/admin-plugins-index.jpg" width="100%" alt="Admin — Languages (Index)">
 </details>
 
 <details>
 	<summary><b>Admin — Languages (Install)</b></summary>
 	<br>
-	<img src="../assets/screenshots/admin-languages-install.jpg" width="100%" alt="Admin — Languages (Install)">
+	<img src="https://raw.githubusercontent.com/ciskeleton/.github/refs/heads/main/assets/screenshots/admin-languages-install.jpg" width="100%" alt="Admin — Languages (Install)">
 </details>
 
 <details>
 	<summary><b>Installer</b></summary>
 	<br>
-	<img src="../assets/screenshots/installer.jpg" width="100%" alt="Installer">
+	<img src="https://raw.githubusercontent.com/ciskeleton/.github/refs/heads/main/assets/screenshots/installer.jpg" width="100%" alt="Installer">
 </details>
 
 ---
